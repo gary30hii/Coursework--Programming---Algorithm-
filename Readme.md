@@ -1,6 +1,6 @@
 # Theme Park Booking System
 
-This program serves as a theme park booking system, designed for coursework in programming and algorithm.
+This program functions as a booking system for a theme park, created for coursework in programming and algorithm design using the C language.
 
 ## Overview
 
